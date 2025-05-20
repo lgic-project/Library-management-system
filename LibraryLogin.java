@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class LibraryLogin {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        String username = "admin";
-        String password = "1234";
+        String username = "aska";
+        String password = "111";
 
         System.out.println("Library Management System");
         
